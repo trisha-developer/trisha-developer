@@ -1,3 +1,7 @@
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=trisha-developer.trisha-developer&left_color=hotpink&right_color=darkred&left_text=Viewers%20"  />
+</div>
+
 # Hi, I'm Trisha 🌸
 
 ### Software Developer
@@ -87,7 +91,6 @@ improving my programming and development skills.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
----
 
 ## 🚀 Projects
 
