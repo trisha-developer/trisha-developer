@@ -14,8 +14,6 @@ I'm a BCA student focused on software development and building practical project
 I enjoy turning ideas into functional, user-friendly applications and continuously
 improving my programming and development skills.
 
----
-
 ## 🌱 Currently Learning
 <ul type="square">
   <li>PHP & Backend Development</li>
@@ -24,8 +22,6 @@ improving my programming and development skills.
   <li>Hadoop & Big Data</li>
   <li>React.js</li>
 </ul>
-
----
 
 ## 📫 Connect With Me
 <div data-importer="socials" align="center">
@@ -48,24 +44,24 @@ improving my programming and development skills.
     <img src="https://img.shields.io/static/v1?message=Projects&logo=projects&label=&color=teal&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="projects logo"  />
   </a>
 </div>
-  
----
+
 ## 🛠️ Skills & Technologies
 
 ### 🎨 Frontend Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
----
 
 ### ⚙️ Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Cake PHP-pink?style=for-the-badge&logo=cakephp&logoColor=white"/>
 </p>
 
@@ -80,19 +76,23 @@ improving my programming and development skills.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <br>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
-
----
 
 ### 🧰 Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <br>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
@@ -106,7 +106,6 @@ improving my programming and development skills.
 | 🛒 E-Commerce UI | Responsive e-commerce website |
 | 🔐 Login & Registration System | PHP authentication system with password hashing |
 
----
 
 ## 📊 GitHub Stats
 
