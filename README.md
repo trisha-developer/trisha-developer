@@ -46,7 +46,7 @@ improving my programming and development skills.
 </div>
 
 ## 🛠️ Skills & Technologies
-<span>
+
 ### 🎨 Frontend Development
 
 <p align="left">
@@ -64,9 +64,9 @@ improving my programming and development skills.
   <br>
   <img src="https://img.shields.io/badge/Cake PHP-pink?style=for-the-badge&logo=cakephp&logoColor=white"/>
 </p>
-</span>
 
-<span>
+
+
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -87,7 +87,7 @@ improving my programming and development skills.
   <br>
   <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
-</span>
+
 
 ### 🧰 Tools & Technologies
 
