@@ -109,7 +109,6 @@ improving my programming and development skills.
 
 ## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=trisha-developer&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=trisha-developer&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=trisha-developer&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
