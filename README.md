@@ -109,10 +109,12 @@ improving my programming and development skills.
 | 🛒 E-Commerce UI | Responsive e-commerce website |
 | 🔐 Login & Registration System | PHP authentication system with password hashing |
 
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=trisha-developer&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=trisha-developer&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=trisha-developer&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFB1B1&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
