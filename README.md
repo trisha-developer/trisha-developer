@@ -112,8 +112,9 @@ improving my programming and development skills.
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=trisha-developer&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=trisha-developer&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=trisha-developer&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-streak-stats.demolab.com/?user=trisha-developer&theme=radical&hide_border=true)<br/>-->
+<!--![](https://streak-stats.demolab.com/?user=trisha-developer&theme=cobalt&hide_border=true)<br/>-->
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFB1B1&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
