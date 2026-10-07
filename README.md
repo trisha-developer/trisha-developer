@@ -37,7 +37,7 @@ improving my programming and development skills.
    <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=resume&label=&color=hotpink&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo"  />
   </a>
-   <a href="" target="_blank">
+   <a href="https://trisha-developer.github.io/My_Portfolio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=beige&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
    <a href="" target="_blank">
