@@ -1,126 +1,99 @@
-<div data-importer="border">
-  <img style="100%"  width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
-</div>
-
-<div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=trisha-developer.trisha-developer&left_color=hotpink&right_color=darkred&left_text=Viewers%20"  />
-</div>
 <div align="center">
-Hi, I'm Trisha 🌸
-  
-### Software Developer
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C9E&center=true&vCenter=true&width=435&lines=BCA+Student;Learning+PHP+%26+Backend;Building+practical+projects" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha-developer.trisha-developer&left_color=hotpink&right_color=darkred&left_text=Viewers%20" />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C9E&center=true&vCenter=true&width=435&lines=BCA+Student;Learning+PHP+%26+Backend;Building+practical+projects" />
+
+  <h1>Hi, I'm Trisha 🌸</h1>
+  <h3>Software Developer</h3>
+
+  <p align="left">
+    I'm a BCA student focused on software development and building practical projects.<br>
+    I enjoy turning ideas into functional, user-friendly applications<br>
+    and continuously improving my programming and development skills.
+  </p>
 </div>
 
-
-I'm a BCA student focused on software development and building practical projects.
-I enjoy turning ideas into functional, user-friendly applications and continuously
-improving my programming and development skills.
+---
 
 ## 🌱 Currently Learning
-<ul type="square">
-  <li>PHP & Backend Development</li>
-  <li>C++</li>
-  <li>MVC Architecture</li>
-  <li>Hadoop & Big Data</li>
-  <li>React.js</li>
-</ul>
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP_&_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC_Architecture-F75C9E?style=for-the-badge)
+![Hadoop](https://img.shields.io/badge/Hadoop_&_Big_Data-FFB1B1?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
 
 ## 📫 Connect With Me
-<div data-importer="socials" align="center">
-  <a href="mailto:hey.trisha.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-    <a href="https://www.linkedin.com/in/devtrisha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-   <a href="https://github.com/trisha-developer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=010409&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  </a>
-   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=resume&label=&color=hotpink&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo"  />
-  </a>
-   <a href="https://trisha-developer.github.io/My_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=beige&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
-  </a>
-   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Projects&logo=projects&label=&color=teal&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="projects logo"  />
-  </a>
+
+<div align="center">
+  <a href="mailto:hey.trisha.dev@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/devtrisha/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="https://trisha-developer.github.io/My_Portfolio/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=F75C9E&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" /></a>
+  <a href="https://github.com/trisha-developer?tab=repositories"><img src="https://img.shields.io/static/v1?message=Projects&logo=github&label=&color=9B5DE5&logoColor=white&style=for-the-badge" height="35" alt="Projects" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Resume&logo=readme&label=&color=hotpink&logoColor=white&style=for-the-badge" height="35" alt="Resume" /></a>
 </div>
 
 ## 🛠️ Skills & Technologies
 
-### 🎨 Frontend Development
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+### 🎨 Frontend Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ### ⚙️ Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Cake PHP-pink?style=for-the-badge&logo=cakephp&logoColor=white"/>
-</p>
-
-
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Cake%20PHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" />
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 ### 🧰 Tools & Technologies
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <br>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-</p>
+</div>
 
 ## 🚀 Projects
 
 | Project | Description |
-|--------|-------------|
-| 🎮 Rock Paper Scissors | JavaScript-based interactive game |
-| 🎮 Tic Tac Toe | Simple and beginner level JavaScript-based interactive game |
-| 🌐 Portfolio Website | Personal developer portfolio |
-| 🛒 E-Commerce UI | Responsive e-commerce website |
-| 🔐 Login & Registration System | PHP authentication system with password hashing |
+|---------|-------------|
+| 🎮 [Rock Paper Scissors](https://github.com/trisha-developer) | JavaScript-based interactive game |
+| ❌ [Tic Tac Toe](https://github.com/trisha-developer) | Beginner-level JavaScript game |
+| 🌐 [Portfolio Website](https://trisha-developer.github.io/My_Portfolio/) | Personal developer portfolio |
+| 🛒 [E-Commerce UI](https://github.com/trisha-developer) | Responsive e-commerce website |
+| 🔐 [Login & Registration System](https://github.com/trisha-developer) | PHP authentication with password hashing |
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=trisha-developer&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=trisha-developer&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=trisha-developer&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p font-size="18px">Readme file: <a href="https://trisha-developer.github.io/trisha-developer/">Click Me!</a><p>
-  
-<div data-importer="border">
-  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFB1B1&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=trisha-developer&theme=cobalt&hide_border=false&count_private=false" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=trisha-developer&theme=cobalt&hide_border=false&layout=compact" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=trisha-developer&theme=cobalt&hide_border=false" />
 </div>
+
+<p align="center">
+  Readme file: <a href="https://trisha-developer.github.io/trisha-developer/">Click Me!</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&color=gradient" />
