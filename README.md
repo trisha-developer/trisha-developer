@@ -1,19 +1,18 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img style="100%"  width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
 
 <div data-importer="profile-views" align="left">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=trisha-developer.trisha-developer&left_color=hotpink&right_color=darkred&left_text=Viewers%20"  />
 </div>
-
-###
 <div align="center">
-  <img src="laptop.jpg">  
+Hi, I'm Trisha 🌸
+  
+### Software Developer
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C9E&center=true&vCenter=true&width=435&lines=BCA+Student;Learning+PHP+%26+Backend;Building+practical+projects" />
 </div>
 
-# Hi, I'm Trisha 🌸
-
-### Software Developer
 
 I'm a BCA student focused on software development and building practical projects.
 I enjoy turning ideas into functional, user-friendly applications and continuously
@@ -123,5 +122,5 @@ improving my programming and development skills.
 <p font-size="18px">Readme file: <a href="https://trisha-developer.github.io/trisha-developer/">Click Me!</a><p>
   
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFB1B1&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFB1B1&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
