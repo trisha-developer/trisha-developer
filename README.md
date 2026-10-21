@@ -2,13 +2,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=trisha-developer.trisha-developer&left_color=hotpink&right_color=darkred&left_text=Viewers%20" />
-
-  <br><br>
-
+  <br>
+  <h3>Hi, I'M Trisha🌸</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C9E&center=true&vCenter=true&width=435&lines=BCA+Student;Learning+PHP+%26+Backend;Building+practical+projects" />
 
-  <h1>Hi, I'm Trisha 🌸</h1>
-  <h3>Software Developer</h3>
+  <h1></h1>
+  <b><h3 align="left">Software Developer</h3></b>
 
   <p align="left">
     I'm a BCA student focused on software development and building practical projects.<br>
