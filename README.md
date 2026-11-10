@@ -23,7 +23,6 @@
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP_&_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC_Architecture-F75C9E?style=for-the-badge)
 ![Hadoop](https://img.shields.io/badge/Hadoop_&_Big_Data-FFB1B1?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
